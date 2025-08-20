@@ -7,7 +7,6 @@ function getBathValue() {
   }
   return -1; // Invalid Value
 }
-
 function getBHKValue() {
   var uiBHK = document.getElementsByName("uiBHK");
   for(var i in uiBHK) {
